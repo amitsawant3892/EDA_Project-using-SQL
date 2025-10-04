@@ -21,7 +21,7 @@
 * Question 16 <br>
  #### Find the total sales amount for each customer
  #### --> To analyze customer sales data and calculate total revenue per customer for eg Kelly's Gift Shop is higest revenue <br>
-<img src="https://github.com/omkarshinde25/SQL-EDA-Project-/blob/main/QueryScreenshots_Q1_to_Q50/16.%20Find%20the%20total%20sales%20amount%20for%20each%20customer..png" width="800"> <br>
+<img src="EDA_Project/16.%20Find%20the%20total%20sales%20amount%20for%20each%20customer..png" width="800"> <br>
 -------------------------------------------------------------
 * Question 21 <br>
 #### Get the monthly sales totals for 2004
